@@ -64,7 +64,7 @@ Our platform analyzes transaction patterns, predicts future expenses, and offers
 - **CI/CD**: GitHub Actions
 - **Deployment**: Vercel
 
-## Challenges We Overcame
+## Challenges We Faced
 
 - **Receipt Analysis Complexity**: Developed custom preprocessing pipelines to handle varied receipt formats, fonts, and layouts
 - **Multi-Currency Integration**: Created a reliable exchange rate system with fallbacks for accurate currency conversions
