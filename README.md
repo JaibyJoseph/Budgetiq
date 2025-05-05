@@ -154,4 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Hashtags
 #FinancialIntelligence #AI #BudgetManagement #MachineLearning #PersonalFinance 
-#FinTech #DataVisualization #AMUHACKS4.0 #CSSAMU #AMU
+#FinTech #DataVisualization #HelloWordHacks
